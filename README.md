@@ -11,8 +11,6 @@ iPickCan/iPickCan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I work with Linux to develop GPON/EPON/XGPON HomeGateway ONU device, it is my job. i worked 11 years till now.
-Good luck to my company.
-
-Contrace Me: 1181302388@qq.com
+I work with Linux to develop GPON/EPON/XGPON HomeGateway ONU device, it is my job.
+Email: solitrarychen@163.com
 
